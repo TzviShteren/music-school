@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<music_school>
+  <class_room name="Jazz guitar">
+    <teacher name="sisu" />
+  </class_room>
+  <class_room name="Classical piano">
+    <teacher name="lina" />
+    <student name="amy">
+      <instruments>piano</instruments>
+    </student>
+    <student name="ben">
+      <instruments>piano</instruments>
+    </student>
+    <student name="chris">
+      <instruments>piano</instruments>
+    </student>
+  </class_room>
+  <class_room name="Rock drums">
+    <teacher name="DT max" />
+    <student name="ellie">
+      <instruments>piano</instruments>
+    </student>
+    <student name="frank">
+      <instruments>drums</instruments>
+    </student>
+  </class_room>
+  <class_room name="Violin basics">
+    <teacher name="nina" />
+    <student name="gina">
+      <instruments>violin</instruments>
+    </student>
+    <student name="hank">
+      <instruments>violin</instruments>
+    </student>
+    <student name="ian">
+      <instruments>violin</instruments>
+    </student>
+  </class_room>
+</music_school>

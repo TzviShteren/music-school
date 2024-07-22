@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MusicSchool2207FA/1.0.0": {
+        "runtime": {
+          "MusicSchool2207FA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicSchool2207FA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

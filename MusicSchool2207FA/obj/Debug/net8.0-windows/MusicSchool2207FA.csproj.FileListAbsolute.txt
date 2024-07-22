@@ -1,0 +1,16 @@
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\bin\Debug\net8.0-windows\MusicSchool2207FA.exe
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\bin\Debug\net8.0-windows\MusicSchool2207FA.deps.json
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\bin\Debug\net8.0-windows\MusicSchool2207FA.runtimeconfig.json
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\bin\Debug\net8.0-windows\MusicSchool2207FA.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\bin\Debug\net8.0-windows\MusicSchool2207FA.pdb
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.Form1.resources
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.csproj.GenerateResource.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.AssemblyInfoInputs.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.AssemblyInfo.cs
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.csproj.CoreCompileInputs.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\refint\MusicSchool2207FA.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.pdb
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\MusicSchool2207FA.genruntimeconfig.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\MusicSchool2207FA\MusicSchool2207FA\obj\Debug\net8.0-windows\ref\MusicSchool2207FA.dll
